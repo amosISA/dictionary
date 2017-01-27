@@ -1,16 +1,16 @@
 jQuery Dictionary Plugin
 =============
 
-Plugin que nos ayuda con las palabras más complicadas. 
+Plugin que nos ayuda con las palabras mÃ¡s complicadas. 
 
 
-Instalación
+InstalaciÃ³n
 -------
 
-0. En tu index.html u otro fichero entre las etiquetas <script> le añades la función .dictionary("", "", "", "") a un botón. 
-0. Parámetros que recibe: 
-* `id del input texto`
-* `id del radiobutton en español`
-* `id del radiobutton en inglés`
-* `id del div/span del error`
+0. En tu index.html u otro fichero entre las etiquetas <script> le aÃ±ades la funciÃ³n .dictionary("", "", "", "") a un botÃ³n. 
+0. ParÃ¡metros que recibe: 
+- id del input texto`
+- id del radiobutton en espaÃ±ol
+- id del radiobutton en inglÃ©s
+- id del div/span del error
 
